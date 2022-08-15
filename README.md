@@ -1,7 +1,5 @@
 # pokedex
 
-A new Flutter project.
-
 ### Sample UI
 
 ![Sample UI](/sample.gif)
